@@ -1,54 +1,25 @@
-
-
-
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-| Quicknote | https://github.com/jensen/quicknote  |   |   |   |   |   |   |   |   |
-| Another Binary Converter  |   |   |   |   |   |   |   |   |   |
-| Vote Now  |   |   |   |   |   |   |   |   |   |
-| Pomodooroo  |   |   |   |   |   |   |   |   |   |
-| Typr  |   |   |   |   |   |   |   |   |   |
-| Instadraw  |   |   |   |   |   |   |   |   |   |
-| Chatatat  |   |   |   |   |   |   |   |   |   |
-| Quizitive  |   |   |   |   |   |   |   |   |   |
-| Musical  |   |   |   |   |   |   |   |   |   |
-| Fresh Fast Food  |   |   |   |   |   |   |   |   |   |
-| Contractual  |   |   |   |   |   |   |   |   |   |
-| EncryptDecrypt  |   |   |   |   |   |   |   |   |   |
-| Tic Tac Token  |   |   |   |   |   |   |   |   |   |
-| /etc/passwd  |   |   |   |   |   |   |   |   |   |
-| StonkCoin  |   |   |   |   |   |   |   |   |   |
-| Expertise  |   |   |   |   |   |   |   |   |   |
-| Memorized  |   |   |   |   |   |   |   |   |   |
-| Podcastic  |   |   |   |   |   |   |   |   |   |
-| FlashyCards  |   |   |   |   |   |   |   |   |   |
-| Pirate Battle  |   |   |   |   |   |   |   |   |   |
-| Neocities  |   |   |   |   |   |   |   |   |   |
-| Minvoice  |   |   |   |   |   |   |   |   |   |
-| Supabooked  |   |   |   |   |   |   |   |   |   |
-
-
-https://github.com/jensen/another-binary-converter
-https://github.com/jensen/vote-now/
-https://github.com/jensen/pomodooroo
-https://github.com/jensen/typr
-https://github.com/jensen/instadraw
-https://github.com/jensen/chatatat
-https://github.com/jensen/quizitive
-https://github.com/jensen/musical/
-https://github.com/jensen/freshfastfood
-https://github.com/jensen/contractual
-https://github.com/jensen/encryptdecrypt
-https://github.com/jensen/tictactoken
-https://github.com/jensen/etcpassword
-https://github.com/jensen/stonkcoin
-https://github.com/jensen/expertise
-https://github.com/jensen/memorized
-https://github.com/jensen/podcastic
-https://github.com/jensen/flashycards
-https://github.com/jensen/piratebattle
-https://github.com/jensen/neocities
-https://github.com/jensen/minvoice
-https://github.com/jensen/supabooked
-https://github.com/jensen/massive
-https://github.com/jensen/snapshots
+| Name                     | Repository                                         | react 18 | supabase | remix | tailwindcss | typescript | xstate | blockchain | solid js | deno | filebase |
+|--------------------------|----------------------------------------------------|:--------:|:--------:|:-----:|:-----------:|:----------:|:------:|:----------:|:--------:|:----:|:--------:|
+| Quicknote                | https://github.com/jensen/quicknote                | ✔️ | ✔️ || ✔️  | ✔️ ||||||
+| Another Binary Converter | https://github.com/jensen/another-binary-converter | ✔️ ||| ✔️ | ✔️ ||||||
+| Vote Now                 | https://github.com/jensen/vote-now/                | ✔️ ||| ✔️ | ✔️ ||||||
+| Pomodooroo               | https://github.com/jensen/pomodooroo               | ✔️ ||| ✔️ | ✔️ | ✔️ |||||
+| Typr                     | https://github.com/jensen/typr                     || ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |||||
+| Instadraw                | https://github.com/jensen/instadraw                || ✔️ | ✔️ | ✔️ | ✔️ ||||||
+| Chatatat                 | https://github.com/jensen/chatatat                 || ✔️ | ✔️ | ✔️ | ✔️ ||||||
+| Quizitive                | https://github.com/jensen/quizitive                | ✔️ | ✔️ || ✔️ | ✔️ ||||||
+| Musical                  | https://github.com/jensen/musical/                 ||| ✔️ | ✔️ | ✔️ ||||||
+| Fresh Fast Food          | https://github.com/jensen/freshfastfood            || ✔️ | ✔️ | ✔️ | ✔️ ||||||
+| Contractual              | https://github.com/jensen/contractual              || ✔️ | ✔️ | ✔️ | ✔️ || ✔️ ||||
+| EncryptDecrypt           | https://github.com/jensen/encryptdecrypt           |||| ✔️ | ✔️ ||| ✔️ ||||
+| Tic Tac Token            | https://github.com/jensen/tictactoken              |||| ✔️ | ✔️ ||| ✔️ | ✔️ |||
+| /etc/passwd              | https://github.com/jensen/etcpassword              ||| ✔️ | ✔️ | ✔️ ||||||
+| StonkCoin                | https://github.com/jensen/stonkcoin                ||| ✔️ | ✔️ | ✔️ ||||||
+| Expertise                | https://github.com/jensen/expertise                ||| ✔️ | ✔️ | ✔️ ||||| ✔️ |
+| Memorized                | https://github.com/jensen/memorized                ||| ✔️ | ✔️ | ✔️ | ✔️ |||||
+| Podcastic                | https://github.com/jensen/podcastic                ||| ✔️ | ✔️ | ✔️ ||||||
+| FlashyCards              | https://github.com/jensen/flashycards              ||| ✔️ || ✔️ | ✔️ ||||
+| Pirate Battle            | https://github.com/jensen/piratebattle             ||| ✔️ || ✔️ | ✔️ ||||
+| Neocities                | https://github.com/jensen/neocities                ||| ✔️ || ✔️ ||||| ✔️ |
+| Minvoice                 | https://github.com/jensen/minvoice                 | ✔️ |||| ✔️ ||||||
+| Supabooked               | https://github.com/jensen/supabooked               || ✔️ | ✔️ | ✔️ | ✔️ ||||||
