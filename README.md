@@ -1,4 +1,4 @@
-| Name                                                 | react 18 | supabase | remix | tailwindcss | typescript | xstate | blockchain | solid js | deno | filebase |
+| Name                                                 | react18 | supabase | remix | tailwindcss | typescript | xstate | blockchain | solidjs | deno | filebase |
 |------------------------------------------------------|:--------:|:--------:|:-----:|:-----------:|:----------:|:------:|:----------:|:--------:|:----:|:--------:|
 | [Quicknote](quicknote)                               | ✔️ | ✔️ || ✔️  | ✔️ ||||||
 | [Another Binary Converter](another-binary-converter) | ✔️ ||| ✔️ | ✔️ ||||||
