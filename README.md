@@ -1,4 +1,4 @@
-In October 2021 I joined a [Discord group](https://www.devjam.org/user/4191b601-6084-4637-8131-2a416691137f) focused on building projects with a deadline. I use this as an opportunity to explore emerging technology.
+In October 2021 I joined a Discord group focused on building projects with a deadline. I use this as an opportunity to explore emerging technology.
 
 | Name                                                                           | react18 | supabase | remix | tailwind | typescript | xstate | chain | solidjs | deno | s3 |
 |--------------------------------------------------------------------------------|:--------:|:--------:|:-----:|:-----------:|:----------:|:------:|:----------:|:--------:|:----:|:--------:|
