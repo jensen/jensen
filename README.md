@@ -1,4 +1,6 @@
-In October 2021 I joined a Discord group focused on building projects with a weekly deadline. I use this as an opportunity to explore emerging technology.
+In October 2021 I joined a Discord group focused on building projects with a weekly deadline. 
+
+Each of these projects took fewer than 10 hours. I use this as an opportunity to explore emerging technology.
 
 | Name                                                                           | react18 | supabase | remix | tailwind | typescript | xstate | chain | solidjs | deno | s3 |
 |--------------------------------------------------------------------------------|:--------:|:--------:|:-----:|:-----------:|:----------:|:------:|:----------:|:--------:|:----:|:--------:|
